@@ -1,3 +1,4 @@
+#!/usr/bin/python
 # -*- Coding: Utf-8 -*-
 
 from flask import Flask, render_template
